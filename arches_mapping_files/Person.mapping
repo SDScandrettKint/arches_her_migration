@@ -1,0 +1,1303 @@
+{
+    "resource_model_id": "22477f01-1a44-11e9-b0a9-000d3ab1e588",
+    "resource_model_name": "Person",
+    "nodes": [
+        {
+            "arches_nodeid": "bdec6921-186c-11eb-8da2-f875a44e0e11",
+            "arches_node_name": "Actor",
+            "file_field_name": "Actor",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c15-effb-11eb-a2b1-a87eeabdefba",
+            "arches_node_name": "Address Currency",
+            "file_field_name": "Address Currency",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a2760f-effb-11eb-b866-a87eeabdefba",
+            "arches_node_name": "Address Currency Metatype",
+            "file_field_name": "Address Currency Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0022f936-effd-11eb-939b-a87eeabdefba",
+            "arches_node_name": "Address Metatype",
+            "file_field_name": "Address Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c14-effb-11eb-8514-a87eeabdefba",
+            "arches_node_name": "Address Status",
+            "file_field_name": "Address Status",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27610-effb-11eb-bccf-a87eeabdefba",
+            "arches_node_name": "Address Status Metatype",
+            "file_field_name": "Address Status Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e2e9feee-effc-11eb-ac98-a87eeabdefba",
+            "arches_node_name": "Address Type",
+            "file_field_name": "Address Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "25b3afc7-186c-11eb-a50d-f875a44e0e11",
+            "arches_node_name": "Associated Activities",
+            "file_field_name": "Associated Activities",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6926-186c-11eb-96d2-f875a44e0e11",
+            "arches_node_name": "Associated Actor Date Qualifier",
+            "file_field_name": "Associated Actor Date Qualifier",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6925-186c-11eb-8808-f875a44e0e11",
+            "arches_node_name": "Associated Actor Date Qualifier Metatype",
+            "file_field_name": "Associated Actor Date Qualifier Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6924-186c-11eb-9b57-f875a44e0e11",
+            "arches_node_name": "Associated Actor Display Date",
+            "file_field_name": "Associated Actor Display Date",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec692b-186c-11eb-b861-f875a44e0e11",
+            "arches_node_name": "Associated Actor End Date",
+            "file_field_name": "Associated Actor End Date",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec692a-186c-11eb-9620-f875a44e0e11",
+            "arches_node_name": "Associated Actor Start Date",
+            "file_field_name": "Associated Actor Start Date",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e79122a9-51ab-11eb-8ab6-f875a44e0e11",
+            "arches_node_name": "Associated Consultations",
+            "file_field_name": "Associated Consultations",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f1b99263-186c-11eb-a704-f875a44e0e11",
+            "arches_node_name": "Association Metatype",
+            "file_field_name": "Association Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6929-186c-11eb-9894-f875a44e0e11",
+            "arches_node_name": "Association Metatype",
+            "file_field_name": "Association Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f1b99262-186c-11eb-9157-f875a44e0e11",
+            "arches_node_name": "Association Type",
+            "file_field_name": "Association Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6928-186c-11eb-9b60-f875a44e0e11",
+            "arches_node_name": "Association Type",
+            "file_field_name": "Association Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d98-effd-11eb-9b3f-a87eeabdefba",
+            "arches_node_name": "Audit Note",
+            "file_field_name": "Audit Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e8167d-effd-11eb-a88d-a87eeabdefba",
+            "arches_node_name": "Audit Notes Metatype",
+            "file_field_name": "Audit Notes Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d9a-effd-11eb-94ce-a87eeabdefba",
+            "arches_node_name": "Audit Notes Type",
+            "file_field_name": "Audit Notes Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229489-effd-11eb-b9c5-a87eeabdefba",
+            "arches_node_name": "Bibliographic Source Citation",
+            "file_field_name": "Bibliographic Source Citation",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ffffaaf0-9043-11ea-b115-f875a44e0e11",
+            "arches_node_name": "Birth Place",
+            "file_field_name": "Birth Place",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b09288b0-9508-11ea-9ab6-f875a44e0e11",
+            "arches_node_name": "Birthplace Metatype",
+            "file_field_name": "Birthplace Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd65367a-904a-11ea-a2e6-f875a44e0e11",
+            "arches_node_name": "Birthplace Type",
+            "file_field_name": "Birthplace Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c0e-effb-11eb-befc-a87eeabdefba",
+            "arches_node_name": "Building Name Metatype",
+            "file_field_name": "Building Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c0f-effb-11eb-b297-a87eeabdefba",
+            "arches_node_name": "Building Name Type",
+            "file_field_name": "Building Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a2761d-effb-11eb-9867-a87eeabdefba",
+            "arches_node_name": "Building Name Value",
+            "file_field_name": "Building Name Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c10-effb-11eb-85d0-a87eeabdefba",
+            "arches_node_name": "Building Number Metatype",
+            "file_field_name": "Building Number Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28a0b-effb-11eb-bc4d-a87eeabdefba",
+            "arches_node_name": "Building Number Sub-Street Metatype",
+            "file_field_name": "Building Number Sub-Street Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27614-effb-11eb-8e1c-a87eeabdefba",
+            "arches_node_name": "Building Number Sub-Street Type",
+            "file_field_name": "Building Number Sub-Street Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27615-effb-11eb-8b46-a87eeabdefba",
+            "arches_node_name": "Building Number Sub-Street Value",
+            "file_field_name": "Building Number Sub-Street Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27613-effb-11eb-8715-a87eeabdefba",
+            "arches_node_name": "Building Number Type",
+            "file_field_name": "Building Number Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a2761f-effb-11eb-9059-a87eeabdefba",
+            "arches_node_name": "Building Number Value",
+            "file_field_name": "Building Number Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5176-1ac3-11eb-ab9e-f875a44e0e11",
+            "arches_node_name": "Caption",
+            "file_field_name": "Caption",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5174-1ac3-11eb-84cb-f875a44e0e11",
+            "arches_node_name": "Caption Metatype",
+            "file_field_name": "Caption Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5177-1ac3-11eb-9916-f875a44e0e11",
+            "arches_node_name": "Caption Type",
+            "file_field_name": "Caption Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229490-effd-11eb-ae41-a87eeabdefba",
+            "arches_node_name": "Comment",
+            "file_field_name": "Comment",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb55-4084-11eb-b95e-f875a44e0e11",
+            "arches_node_name": "Contact Name Currency",
+            "file_field_name": "Contact Name Currency",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb59-4084-11eb-8f29-f875a44e0e11",
+            "arches_node_name": "Contact Name Currency Metatype",
+            "file_field_name": "Contact Name Currency Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb56-4084-11eb-bcc5-f875a44e0e11",
+            "arches_node_name": "Contact Name For Correspondence",
+            "file_field_name": "Contact Name For Correspondence",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb57-4084-11eb-bd1e-f875a44e0e11",
+            "arches_node_name": "Contact Name Metatype",
+            "file_field_name": "Contact Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2bef229c-4084-11eb-9aee-f875a44e0e11",
+            "arches_node_name": "Contact Name Type",
+            "file_field_name": "Contact Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb58-4084-11eb-930f-f875a44e0e11",
+            "arches_node_name": "Contact Name Use Metatype",
+            "file_field_name": "Contact Name Use Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2beefb54-4084-11eb-8e81-f875a44e0e11",
+            "arches_node_name": "Contact Name Use Type",
+            "file_field_name": "Contact Name Use Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2547c133-9505-11ea-8e49-f875a44e0e11",
+            "arches_node_name": "Contact point",
+            "file_field_name": "Contact point",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2547c134-9505-11ea-9535-f875a44e0e11",
+            "arches_node_name": "Contact Point Metatype",
+            "file_field_name": "Contact Point Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2547c132-9505-11ea-b22f-f875a44e0e11",
+            "arches_node_name": "Contact Point Type",
+            "file_field_name": "Contact Point Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb517b-1ac3-11eb-a29b-f875a44e0e11",
+            "arches_node_name": "Copyright Holder",
+            "file_field_name": "Copyright Holder",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5179-1ac3-11eb-ae04-f875a44e0e11",
+            "arches_node_name": "Copyright Metatype",
+            "file_field_name": "Copyright Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb517a-1ac3-11eb-911f-f875a44e0e11",
+            "arches_node_name": "Copyright Note Metatype",
+            "file_field_name": "Copyright Note Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb787f-1ac3-11eb-a0a5-f875a44e0e11",
+            "arches_node_name": "Copyright Note Text",
+            "file_field_name": "Copyright Note Text",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5178-1ac3-11eb-aa35-f875a44e0e11",
+            "arches_node_name": "Copyright Note Type",
+            "file_field_name": "Copyright Note Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb517c-1ac3-11eb-9d90-f875a44e0e11",
+            "arches_node_name": "Copyright Type",
+            "file_field_name": "Copyright Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c0d-effb-11eb-9245-a87eeabdefba",
+            "arches_node_name": "County Metatype",
+            "file_field_name": "County Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28a0d-effb-11eb-a2fb-a87eeabdefba",
+            "arches_node_name": "County Type",
+            "file_field_name": "County Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c1d-effb-11eb-95a1-a87eeabdefba",
+            "arches_node_name": "County Value",
+            "file_field_name": "County Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d8d-effd-11eb-b372-a87eeabdefba",
+            "arches_node_name": "Creation Date",
+            "file_field_name": "Creation Date",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da4-effd-11eb-b833-a87eeabdefba",
+            "arches_node_name": "Creation Date Qualifier",
+            "file_field_name": "Creation Date Qualifier",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e8167b-effd-11eb-a472-a87eeabdefba",
+            "arches_node_name": "Creation Date Qualifier Metatype",
+            "file_field_name": "Creation Date Qualifier Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e8167c-effd-11eb-8882-a87eeabdefba",
+            "arches_node_name": "Creation End Date",
+            "file_field_name": "Creation End Date",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d9f-effd-11eb-8b58-a87eeabdefba",
+            "arches_node_name": "Creator Name",
+            "file_field_name": "Creator Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d93-effd-11eb-92c2-a87eeabdefba",
+            "arches_node_name": "Creator Name Currency",
+            "file_field_name": "Creator Name Currency",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da1-effd-11eb-97f6-a87eeabdefba",
+            "arches_node_name": "Creator Name Currency Metatype",
+            "file_field_name": "Creator Name Currency Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d94-effd-11eb-bb6e-a87eeabdefba",
+            "arches_node_name": "Creator Name Metatype",
+            "file_field_name": "Creator Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e8167a-effd-11eb-bf1d-a87eeabdefba",
+            "arches_node_name": "Creator Name Type",
+            "file_field_name": "Creator Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d8f-effd-11eb-9a5b-a87eeabdefba",
+            "arches_node_name": "Creator Name Use Metatype",
+            "file_field_name": "Creator Name Use Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d92-effd-11eb-9150-a87eeabdefba",
+            "arches_node_name": "Creator Name Use Type",
+            "file_field_name": "Creator Name Use Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bfc983c0-a3df-11e9-a84a-00224800b26d",
+            "arches_node_name": "Currency",
+            "file_field_name": "Currency",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0302736c-942f-11ea-838e-f875a44e0e11",
+            "arches_node_name": "Currency Metatype",
+            "file_field_name": "Currency Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "fed4c6c6-1fe5-11e9-b9bb-000d3ab1e588",
+            "arches_node_name": "Date of Birth",
+            "file_field_name": "Date of Birth",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "06f3a244-1fe6-11e9-906a-000d3ab1e588",
+            "arches_node_name": "Date of Death",
+            "file_field_name": "Date of Death",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d9c-effd-11eb-b272-a87eeabdefba",
+            "arches_node_name": "Date of Last Update",
+            "file_field_name": "Date of Last Update",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a6a53c0-9043-11ea-9c79-f875a44e0e11",
+            "arches_node_name": "Death Place",
+            "file_field_name": "Death Place",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c9fc8676-9509-11ea-bd7c-f875a44e0e11",
+            "arches_node_name": "Death Place Metatype",
+            "file_field_name": "Death Place Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3a9c07de-9043-11ea-b39d-f875a44e0e11",
+            "arches_node_name": "Death Place Type",
+            "file_field_name": "Death Place Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "554b89a8-9504-11ea-a4ef-f875a44e0e11",
+            "arches_node_name": "Description",
+            "file_field_name": "Description",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "aca24d27-b54e-11ea-9a9a-f875a44e0e11",
+            "arches_node_name": "Description Language ",
+            "file_field_name": "Description Language ",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9c4130e2-b54f-11ea-a88b-f875a44e0e11",
+            "arches_node_name": "Description Language Metatype",
+            "file_field_name": "Description Language Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "554b89aa-9504-11ea-acf0-f875a44e0e11",
+            "arches_node_name": "Description Metatype",
+            "file_field_name": "Description Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "554b89a9-9504-11ea-8dcb-f875a44e0e11",
+            "arches_node_name": "Description Type",
+            "file_field_name": "Description Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "486d0abb-8563-11ea-ad73-f875a44e0e11",
+            "arches_node_name": "Digital File(s)",
+            "file_field_name": "Digital File(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e4f782ce-7e56-11ea-b3e3-f875a44e0e11",
+            "arches_node_name": "Epithet",
+            "file_field_name": "Epithet",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "57c0b810-9503-11ea-a66b-f875a44e0e11",
+            "arches_node_name": "Epithet Name Metatype",
+            "file_field_name": "Epithet Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e4f782cd-7e56-11ea-b5a8-f875a44e0e11",
+            "arches_node_name": "Epithet Name Type",
+            "file_field_name": "Epithet Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e4a-effa-11eb-9b6d-a87eeabdefba",
+            "arches_node_name": "External Cross Reference",
+            "file_field_name": "External Cross Reference",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e4d-effa-11eb-9383-a87eeabdefba",
+            "arches_node_name": "External Cross Reference Description",
+            "file_field_name": "External Cross Reference Description",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e4e-effa-11eb-b778-a87eeabdefba",
+            "arches_node_name": "External Cross Reference Description Metatype",
+            "file_field_name": "External Cross Reference Description Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e4b-effa-11eb-95e4-a87eeabdefba",
+            "arches_node_name": "External Cross Reference Description Type",
+            "file_field_name": "External Cross Reference Description Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e50-effa-11eb-a9a9-a87eeabdefba",
+            "arches_node_name": "External Cross Reference Source",
+            "file_field_name": "External Cross Reference Source",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "fed4c6c8-1fe5-11e9-a2ae-000d3ab1e588",
+            "arches_node_name": "Father",
+            "file_field_name": "Father",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c0-effd-11eb-bc7e-a87eeabdefba",
+            "arches_node_name": "Figs.",
+            "file_field_name": "Figs.",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c3-effd-11eb-9b7b-a87eeabdefba",
+            "arches_node_name": "Figures Metatype",
+            "file_field_name": "Figures Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c1-effd-11eb-aa63-a87eeabdefba",
+            "arches_node_name": "Figures Type",
+            "file_field_name": "Figures Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2caeb5e7-7b44-11ea-a919-f875a44e0e11",
+            "arches_node_name": "Forename",
+            "file_field_name": "Forename",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a72819d2-9502-11ea-b41d-f875a44e0e11",
+            "arches_node_name": "Forename Metatype",
+            "file_field_name": "Forename Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2caeb5e6-7b44-11ea-bc86-f875a44e0e11",
+            "arches_node_name": "Forename  Name Type",
+            "file_field_name": "Forename  Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27611-effb-11eb-a79c-a87eeabdefba",
+            "arches_node_name": "Full Address",
+            "file_field_name": "Full Address",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c1c-effb-11eb-bab2-a87eeabdefba",
+            "arches_node_name": "Full Address Metatype",
+            "file_field_name": "Full Address Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c13-effb-11eb-96bc-a87eeabdefba",
+            "arches_node_name": "Full Address Type",
+            "file_field_name": "Full Address Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5f8ded26-7ef9-11ea-8e29-f875a44e0e11",
+            "arches_node_name": "Full Name",
+            "file_field_name": "Full Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8f5caea4-942e-11ea-b354-f875a44e0e11",
+            "arches_node_name": "Full Name Metatype",
+            "file_field_name": "Full Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "75ff592e-7ef9-11ea-ab5c-f875a44e0e11",
+            "arches_node_name": "Full Name Type",
+            "file_field_name": "Full Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f1b99264-186c-11eb-b11b-f875a44e0e11",
+            "arches_node_name": "Heritage Asset, Area or Artefact",
+            "file_field_name": "Heritage Asset, Area or Artefact",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "84bb5171-1ac3-11eb-b702-f875a44e0e11",
+            "arches_node_name": "Images",
+            "file_field_name": "Images",
+            "data_type": "file-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a663840a-7e56-11ea-9e90-f875a44e0e11",
+            "arches_node_name": "Initial(s)",
+            "file_field_name": "Initial(s)",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e90ed55e-9502-11ea-81f2-f875a44e0e11",
+            "arches_node_name": "Initial(s) Name Metatype",
+            "file_field_name": "Initial(s) Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a6638409-7e56-11ea-9294-f875a44e0e11",
+            "arches_node_name": "Initial(s) Name Type",
+            "file_field_name": "Initial(s) Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f943-950e-11ea-b618-f875a44e0e11",
+            "arches_node_name": "Legacy ID",
+            "file_field_name": "Legacy ID",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f94c-950e-11ea-bf73-f875a44e0e11",
+            "arches_node_name": "Legacy ID Metatype",
+            "file_field_name": "Legacy ID Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f949-950e-11ea-acef-f875a44e0e11",
+            "arches_node_name": "Legacy ID Type",
+            "file_field_name": "Legacy ID Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28a0a-effb-11eb-9f29-a87eeabdefba",
+            "arches_node_name": "Locality Metatype",
+            "file_field_name": "Locality Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27612-effb-11eb-a685-a87eeabdefba",
+            "arches_node_name": "Locality Type",
+            "file_field_name": "Locality Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c1a-effb-11eb-a811-a87eeabdefba",
+            "arches_node_name": "Locality Value",
+            "file_field_name": "Locality Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "809f3dae-1ac4-11eb-aef8-f875a44e0e11",
+            "arches_node_name": "Mother",
+            "file_field_name": "Mother",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8d818030-9503-11ea-89f1-f875a44e0e11",
+            "arches_node_name": "Name Use Metatype",
+            "file_field_name": "Name Use Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4110f747-1a44-11e9-96b7-000d3ab1e588",
+            "arches_node_name": "Name Use Type",
+            "file_field_name": "Name Use Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229494-effd-11eb-aa01-a87eeabdefba",
+            "arches_node_name": "Page(s)",
+            "file_field_name": "Page(s)",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22948c-effd-11eb-9614-a87eeabdefba",
+            "arches_node_name": "Pages Metatype",
+            "file_field_name": "Pages Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229495-effd-11eb-a7dd-a87eeabdefba",
+            "arches_node_name": "Pages Type",
+            "file_field_name": "Pages Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c4-effd-11eb-baf2-a87eeabdefba",
+            "arches_node_name": "Plate(s)",
+            "file_field_name": "Plate(s)",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229492-effd-11eb-bd4c-a87eeabdefba",
+            "arches_node_name": "Plates metatype",
+            "file_field_name": "Plates metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c2-effd-11eb-b58a-a87eeabdefba",
+            "arches_node_name": "Plates Type",
+            "file_field_name": "Plates Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a2760e-effb-11eb-96ad-a87eeabdefba",
+            "arches_node_name": "Postcode Metatype",
+            "file_field_name": "Postcode Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c18-effb-11eb-bfad-a87eeabdefba",
+            "arches_node_name": "Postcode Type",
+            "file_field_name": "Postcode Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27619-effb-11eb-a66d-a87eeabdefba",
+            "arches_node_name": "Postcode Value",
+            "file_field_name": "Postcode Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f941-950e-11ea-a048-f875a44e0e11",
+            "arches_node_name": "Primary Reference Number",
+            "file_field_name": "Primary Reference Number",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f94a-950e-11ea-8220-f875a44e0e11",
+            "arches_node_name": "Primary Reference Number Metatype",
+            "file_field_name": "Primary Reference Number Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f947-950e-11ea-8b71-f875a44e0e11",
+            "arches_node_name": "Primary Reference Number Type",
+            "file_field_name": "Primary Reference Number Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f942-950e-11ea-b5f0-f875a44e0e11",
+            "arches_node_name": "ResourceID",
+            "file_field_name": "ResourceID",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f94b-950e-11ea-9953-f875a44e0e11",
+            "arches_node_name": "ResourceID Metatype",
+            "file_field_name": "ResourceID Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9718f948-950e-11ea-bd67-f875a44e0e11",
+            "arches_node_name": "ResourceID Type",
+            "file_field_name": "ResourceID Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f245f442-9aa5-11ea-940d-f875a44e0e11",
+            "arches_node_name": "Resource Model Metatype",
+            "file_field_name": "Resource Model Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f245f43f-9aa5-11ea-b2c5-f875a44e0e11",
+            "arches_node_name": "Resource Model Type",
+            "file_field_name": "Resource Model Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6923-186c-11eb-9e93-f875a44e0e11",
+            "arches_node_name": "Role Metatype",
+            "file_field_name": "Role Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bdec6922-186c-11eb-b09e-f875a44e0e11",
+            "arches_node_name": "Role Type",
+            "file_field_name": "Role Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229491-effd-11eb-8c20-a87eeabdefba",
+            "arches_node_name": "Source Comment Metatype",
+            "file_field_name": "Source Comment Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c229497-effd-11eb-bf64-a87eeabdefba",
+            "arches_node_name": "Source Comment Type",
+            "file_field_name": "Source Comment Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22948d-effd-11eb-95d4-a87eeabdefba",
+            "arches_node_name": "Source Number Metatype",
+            "file_field_name": "Source Number Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22948f-effd-11eb-90fe-a87eeabdefba",
+            "arches_node_name": "Source Number Type",
+            "file_field_name": "Source Number Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c22a9c6-effd-11eb-996c-a87eeabdefba",
+            "arches_node_name": "Source Number Value",
+            "file_field_name": "Source Number Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c1e-effb-11eb-b38b-a87eeabdefba",
+            "arches_node_name": "Street Metatype",
+            "file_field_name": "Street Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c17-effb-11eb-ba82-a87eeabdefba",
+            "arches_node_name": "Street Type",
+            "file_field_name": "Street Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27621-effb-11eb-83e6-a87eeabdefba",
+            "arches_node_name": "Street Value",
+            "file_field_name": "Street Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c11-effb-11eb-8ba2-a87eeabdefba",
+            "arches_node_name": "Sub-Street Metatype",
+            "file_field_name": "Sub-Street Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c0c-effb-11eb-b7cc-a87eeabdefba",
+            "arches_node_name": "Sub-Street Type",
+            "file_field_name": "Sub-Street Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a2761b-effb-11eb-bcf9-a87eeabdefba",
+            "arches_node_name": "Sub-Street Value",
+            "file_field_name": "Sub-Street Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "96a3942a-7e53-11ea-8b5a-f875a44e0e11",
+            "arches_node_name": "Surname",
+            "file_field_name": "Surname",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32933f62-9503-11ea-bd92-f875a44e0e11",
+            "arches_node_name": "Surname Name Metatype",
+            "file_field_name": "Surname Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "96a39429-7e53-11ea-8aa9-f875a44e0e11",
+            "arches_node_name": "Surname Name Type",
+            "file_field_name": "Surname Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6da2f03b-7e55-11ea-8fe5-f875a44e0e11",
+            "arches_node_name": "Title",
+            "file_field_name": "Title",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "79753c62-9502-11ea-82fc-f875a44e0e11",
+            "arches_node_name": "Title Name Metatype",
+            "file_field_name": "Title Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6da2f03a-7e55-11ea-a919-f875a44e0e11",
+            "arches_node_name": "Title Name Type",
+            "file_field_name": "Title Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28a0c-effb-11eb-a5fc-a87eeabdefba",
+            "arches_node_name": "Town or City Metatype",
+            "file_field_name": "Town or City Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a28c16-effb-11eb-89a6-a87eeabdefba",
+            "arches_node_name": "Town or City Type",
+            "file_field_name": "Town or City Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a27617-effb-11eb-a80f-a87eeabdefba",
+            "arches_node_name": "Town or City Value",
+            "file_field_name": "Town or City Value",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da6-effd-11eb-92c6-a87eeabdefba",
+            "arches_node_name": "Update Date Qualifier",
+            "file_field_name": "Update Date Qualifier",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d90-effd-11eb-9e34-a87eeabdefba",
+            "arches_node_name": "Update Date Qualifier Metatype",
+            "file_field_name": "Update Date Qualifier Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d9b-effd-11eb-b9d9-a87eeabdefba",
+            "arches_node_name": "Update End Date",
+            "file_field_name": "Update End Date",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d8c-effd-11eb-a864-a87eeabdefba",
+            "arches_node_name": "Update Name Metatype",
+            "file_field_name": "Update Name Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da7-effd-11eb-95ee-a87eeabdefba",
+            "arches_node_name": "Updater Name",
+            "file_field_name": "Updater Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d9d-effd-11eb-8c34-a87eeabdefba",
+            "arches_node_name": "Updater Name Currency",
+            "file_field_name": "Updater Name Currency",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da8-effd-11eb-90ac-a87eeabdefba",
+            "arches_node_name": "Updater Name Currency Metatype",
+            "file_field_name": "Updater Name Currency Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d8e-effd-11eb-aec9-a87eeabdefba",
+            "arches_node_name": "Updater Name Type",
+            "file_field_name": "Updater Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d96-effd-11eb-88e6-a87eeabdefba",
+            "arches_node_name": "Updater Name Use Metatype",
+            "file_field_name": "Updater Name Use Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da0-effd-11eb-bf8b-a87eeabdefba",
+            "arches_node_name": "Updater Name Use Type",
+            "file_field_name": "Updater Name Use Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "094f1e4f-effa-11eb-a732-a87eeabdefba",
+            "arches_node_name": "URL",
+            "file_field_name": "URL",
+            "data_type": "url",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83d95-effd-11eb-a186-a87eeabdefba",
+            "arches_node_name": "Validation",
+            "file_field_name": "Validation",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "32e83da9-effd-11eb-8df9-a87eeabdefba",
+            "arches_node_name": "Validation Metatype",
+            "file_field_name": "Validation Metatype",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}
